@@ -7,8 +7,6 @@ If the answer does not exist in the document, the system must say that it does n
 
 Assignment requirements
 
-The pdf asked to:
-
 Load the provided text file.
 Split the text into smaller chunks.
 Create embeddings for those chunks.
